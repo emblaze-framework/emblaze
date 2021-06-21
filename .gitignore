@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/.idea
+/.vscode
+.env
+.DS_Store
+push.py
+composer.lock

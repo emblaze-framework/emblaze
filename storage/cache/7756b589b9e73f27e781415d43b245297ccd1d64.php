@@ -1,0 +1,1 @@
+<?php echo e($age); ?><?php /**PATH /Users/reymarkdivino/Desktop/PHP-MVC/Emblaze/views/admin/dashboard.blade.php ENDPATH**/ ?>
