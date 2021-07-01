@@ -8,3 +8,6 @@ Emblaze is a web application framework
 ## to install it
 
 `composer create-project --prefer-dist emblaze/emblaze example-app`
+
+
+## NOTES: Don't use this yet, because this is currently on development phase.
